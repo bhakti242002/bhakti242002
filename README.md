@@ -114,5 +114,5 @@ The thread through all of it: **knowing what AI can be trusted to do alone, and 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhakti-pasnani-712280216"><img src="https://img.shields.io/badge/LinkedIn-2dd4bf?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://bhakti242002.github.io/"><img src="https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:bhakti.242002@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-f472b6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:bhaktipasnani02@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-f472b6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
