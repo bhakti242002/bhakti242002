@@ -12,7 +12,7 @@
 
 <img align="right" width="380" src="assets/hero.svg" alt="Illustration of a woman working at a desk with data dashboards" />
 
-I'm **Bhakti**, and I work where three roles overlap:
+I'm **Bhakti**:
 
 📊 **Data Analyst.** I turn messy data into decisions people trust, with SQL, Power BI dashboards, and the validation checks that keep the numbers honest.
 
@@ -22,7 +22,7 @@ I'm **Bhakti**, and I work where three roles overlap:
 
 The thread through all of it: **knowing what AI can be trusted to do alone, and where a deterministic check is needed.** ✨
 
-🎓 MS Data Science @ Northeastern · 🧑‍🏫 Former Head TA, ML & Data Mining
+🎓 MS Data Science @ Northeastern ·
 
 <br clear="right"/>
 
