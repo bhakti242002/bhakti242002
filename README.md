@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Boston,_MA-Open_to_Relocation-ff6b6b?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎓_Northeastern-MS_Data_Science_'26-ffd93d?style=for-the-badge&labelColor=333" />
-  <img src="https://img.shields.io/badge/💼_Open_to-Data_%26_ML_Roles-6bcb77?style=for-the-badge" />
+ 
 </p>
 
 ---
