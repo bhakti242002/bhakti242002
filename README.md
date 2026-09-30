@@ -1,32 +1,28 @@
-<!-- 🌈 BANNER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,25:ffd93d,50:6bcb77,75:4d96ff,100:c77dff&height=200&section=header&text=Hi,%20I'm%20Bhakti!&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%40%20Northeastern%20University&descSize=18&descAlignY=58&animation=fadeIn" />
+  <img width="100%" src="assets/banner.svg" alt="Bhakti Pasnani: Data Analyst, Product, Data Science Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=900&color=FF6B6B&center=true&vCenter=true&width=650&lines=MS+Data+Science+%40+Northeastern;Building+ML+tools+that+actually+ship;Deciding+when+to+trust+AI+and+when+to+check+it;Python+%7C+SQL+%7C+Power+BI+%7C+React" alt="Typing intro" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Boston,_MA-Open_to_Relocation-ff6b6b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎓_Northeastern-MS_Data_Science_'26-ffd93d?style=for-the-badge&labelColor=333" />
- 
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=720&lines=Data+Analyst+%E2%80%94+turning+messy+data+into+decisions;Product+%E2%80%94+defining+what+success+actually+means;Data+Science+Engineer+%E2%80%94+shipping+ML+beyond+the+notebook;Knowing+when+to+trust+AI%2C+and+when+to+verify+it" alt="Data Analyst | Product | Data Science Engineer" />
 </p>
 
 ---
 
-## 🌟 My Story
+## 👩‍💻 Who Am I
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="380" src="assets/hero.svg" alt="Illustration of a woman working at a desk with data dashboards" />
 
-Hey hey! 👋 I'm **Bhakti Pasnani**, an **MS Data Science student at Northeastern University** who loves building ML tools and data apps that people actually use.
+I'm **Bhakti**, and I work where three roles overlap:
 
-The question I keep coming back to: **what should an AI be trusted to do alone, and where is a deterministic check needed?** It shapes how I build, from verifying AI-suggested SQL against real execution plans to predicting revenue risk from live SEC filings. ✨
+📊 **Data Analyst.** I turn messy data into decisions people trust, with SQL, Power BI dashboards, and the validation checks that keep the numbers honest.
 
-- 🔭 Building ML tools on real-world data
-- 📚 Coursework in Supervised & Unsupervised ML, NLP, Data Management and Algorithms
-- 🧑‍🏫 Former **Head TA** for Machine Learning & Data Mining
-- 🤝 Open to **data science, analytics & ML roles**
+🧭 **Product.** I figure out which problem is actually worth solving, turn ambiguous stakeholder asks into clear specs, and define what success looks like.
+
+⚙️ **Data Science Engineer.** I take ML out of the notebook and into production, from a live SEC-data risk model to full-stack AI apps.
+
+The thread through all of it: **knowing what AI can be trusted to do alone, and where a deterministic check is needed.** ✨
+
+🎓 MS Data Science @ Northeastern · 🧑‍🏫 Former Head TA, ML & Data Mining
 
 <br clear="right"/>
 
@@ -53,42 +49,37 @@ The question I keep coming back to: **what should an AI be trusted to do alone, 
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td colspan="2" valign="top">
+<p align="center">
+  <a href="https://github.com/bhakti242002/Live-Revenue-Risk-Tool"><img width="100%" src="assets/projects/01-revenue-risk.svg" alt="Live Revenue Risk Check" /></a>
+  <br/>
+  <a href="https://live-revenue-risk-tool-api.vercel.app"><img src="https://img.shields.io/badge/▶_Try_it_live-2dd4bf?style=for-the-badge" /></a>
+  <a href="https://github.com/bhakti242002/Live-Revenue-Risk-Tool"><img src="https://img.shields.io/badge/View_Code-1e1b4b?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-### 📉 Live Revenue Risk Check
-A **live, deployed ML tool** that pulls a public company's real filings from the SEC API on demand and predicts **next-year revenue-decline risk in real time**. Trained a Random Forest on 505 real company-years with a time-based train/test split to avoid leakage, reaching **0.62 ROC-AUC and 50% recall** (vs. 0% for a naive baseline).
+<p align="center">
+  <a href="https://github.com/bhakti242002/Insight_Bridge-"><img width="100%" src="assets/projects/02-insight-bridge.svg" alt="Insight Bridge" /></a>
+  <br/>
+  <a href="https://insight-bridge-omega.vercel.app"><img src="https://img.shields.io/badge/▶_Try_it_live-f472b6?style=for-the-badge" /></a>
+  <a href="https://github.com/bhakti242002/Insight_Bridge-"><img src="https://img.shields.io/badge/View_Code-1e1b4b?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-`Python` `Serverless` `Scikit-learn` `Random Forest` `SEC API`
+<p align="center">
+  <a href="https://github.com/bhakti242002/AI-SQL-Auditor"><img width="100%" src="assets/projects/03-sql-auditor.svg" alt="AI SQL Auditor" /></a>
+  <br/>
+  <a href="https://github.com/bhakti242002/AI-SQL-Auditor"><img src="https://img.shields.io/badge/View_Code-1e1b4b?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-[🔗 Live Demo](https://YOUR_DEMO_LINK) · [📂 Code](https://github.com/bhakti242002/REPO_NAME)
+<p align="center">
+  <a href="https://github.com/bhakti242002/Customer-Churn-Prediction"><img width="100%" src="assets/projects/04-churn.svg" alt="Customer Churn Prediction" /></a>
+  <br/>
+  <a href="https://github.com/bhakti242002/Customer-Churn-Prediction"><img src="https://img.shields.io/badge/View_Code-1e1b4b?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Insight Bridge
-Full-stack web app that turns **any spreadsheet into a dashboard with zero setup**. Statistical type inference classifies and visualizes data, validated on 8+ unrelated real-world datasets. Fixed a bottleneck for a **240× speedup (36s → 150ms)** on 10,000+ row files.
-
-`Python` `Flask` `React` `Claude API`
-
-[📂 Code](https://github.com/bhakti242002/REPO_NAME)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 AI SQL Auditor
-Pipeline that uses the Claude API to review **120 SQL queries across 15 anti-pattern categories**, then checks every AI rewrite against real PostgreSQL `EXPLAIN ANALYZE` plans. Only **38% of AI rewrites actually helped**, and 20% made things worse.
-
-`Python` `Claude API` `PostgreSQL` `Power BI`
-
-[📂 Code](https://github.com/bhakti242002/REPO_NAME)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://functional-trouble-cf6.notion.site/Gemini-in-Sheets-A-Confidence-Layer-It-s-Missing-3e4ced2212a780ffbdb1cd03db0459a4"><img width="100%" src="assets/projects/05-gemini-spec.svg" alt="Gemini in Sheets: Confidence Layer" /></a>
+  <br/>
+  <a href="https://functional-trouble-cf6.notion.site/Gemini-in-Sheets-A-Confidence-Layer-It-s-Missing-3e4ced2212a780ffbdb1cd03db0459a4"><img src="https://img.shields.io/badge/📄_Read_the_Spec-fb7185?style=for-the-badge&logo=notion&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -96,13 +87,15 @@ Pipeline that uses the Claude API to review **120 SQL queries across 15 anti-pat
 
 | 🎯 Area | 🧰 Tools |
 |:--|:--|
-| 💬 **Languages** | <img src="https://skillicons.dev/icons?i=python,r&theme=light" /> ![SQL](https://img.shields.io/badge/SQL-4d96ff?style=for-the-badge&logo=databricks&logoColor=white) |
-| 🧠 **ML & Data** | <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&theme=light" /><br/>![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-6bcb77?style=for-the-badge) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) |
+| 💬 **Languages** | <img src="https://skillicons.dev/icons?i=python,r&theme=light" /> ![SQL](https://img.shields.io/badge/SQL-2dd4bf?style=for-the-badge&logo=databricks&logoColor=white) |
+| 🧠 **ML & Data** | <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&theme=light" /><br/>![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) |
+| 📐 **Analytics** | ![Data Science](https://img.shields.io/badge/Data_Science,_Data_Mining_%26_ML-2dd4bf?style=flat-square) ![Stats](https://img.shields.io/badge/Statistical_Modeling-a78bfa?style=flat-square) ![Quant](https://img.shields.io/badge/Quantitative_Analysis-f472b6?style=flat-square) |
 | 🤖 **AI Tools** | ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-333333?style=for-the-badge&logo=cursor&logoColor=white) |
 | 🗄️ **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" /> ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
-| 📊 **BI & Viz** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-ffd93d?style=for-the-badge&labelColor=333) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) |
+| 📊 **BI & Viz** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-fbbf24?style=for-the-badge&labelColor=333) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) |
 | 🌐 **Web & Deployment** | <img src="https://skillicons.dev/icons?i=html,css,flask,react&theme=light" /> |
-| 🧪 **Other Tools** | <img src="https://skillicons.dev/icons?i=git,gitlab,notion&theme=light" /> ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white) |
+| 🧪 **Collaboration & Tools** | <img src="https://skillicons.dev/icons?i=git,gitlab,notion&theme=light" /> ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white) |
+| 🧭 **Product & Strategy** | ![Vision](https://img.shields.io/badge/Product_Vision_%26_Strategy-f472b6?style=flat-square) ![Roadmapping](https://img.shields.io/badge/Roadmapping-a78bfa?style=flat-square) ![Market](https://img.shields.io/badge/Market_%26_Competitive_Analysis-2dd4bf?style=flat-square) ![GTM](https://img.shields.io/badge/Go--To--Market_Strategy-fbbf24?style=flat-square) ![OKRs](https://img.shields.io/badge/OKRs_%26_KPIs-fb7185?style=flat-square) ![Risk](https://img.shields.io/badge/Risk_Mitigation-a78bfa?style=flat-square) ![PRDs](https://img.shields.io/badge/PRDs_%26_Prioritization-2dd4bf?style=flat-square) |
 
 ---
 
@@ -119,11 +112,7 @@ Pipeline that uses the Claude API to review **120 SQL queries across 15 anti-pat
 ## 💌 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4d96ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-c77dff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:bhakti.242002@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c77dff,25:4d96ff,50:6bcb77,75:ffd93d,100:ff6b6b&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=ffffff&fontAlignY=70" />
+  <a href="https://www.linkedin.com/in/bhakti-pasnani-712280216"><img src="https://img.shields.io/badge/LinkedIn-2dd4bf?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://bhakti242002.github.io/"><img src="https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:bhakti.242002@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-f472b6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
