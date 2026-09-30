@@ -22,7 +22,7 @@ I'm **Bhakti**:
 
 The thread through all of it: **knowing what AI can be trusted to do alone, and where a deterministic check is needed.** ✨
 
-🎓 MS Data Science @ Northeastern ·
+🎓 MS Data Science @ Northeastern 
 
 <br clear="right"/>
 
@@ -52,7 +52,7 @@ The thread through all of it: **knowing what AI can be trusted to do alone, and 
 <p align="center">
   <a href="https://github.com/bhakti242002/Live-Revenue-Risk-Tool"><img width="100%" src="assets/projects/01-revenue-risk.svg" alt="Live Revenue Risk Check" /></a>
   <br/>
-  <a href="https://live-revenue-risk-tool-api.vercel.app"><img src="https://img.shields.io/badge/▶_Try_it_live-2dd4bf?style=for-the-badge" /></a>
+  <a href="https://live-revenue-risk-tool-api-orcin.vercel.app/"><img src="https://img.shields.io/badge/▶_Try_it_live-2dd4bf?style=for-the-badge" /></a>
   <a href="https://github.com/bhakti242002/Live-Revenue-Risk-Tool"><img src="https://img.shields.io/badge/View_Code-1e1b4b?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
