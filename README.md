@@ -40,7 +40,7 @@ The thread through all of it: **knowing what AI can be trusted to do alone, and 
 > ▸ Coordinated and trained a **team of 5 TAs**, owned lab scheduling, and worked directly with the professor on course decisions
 > ▸ Delivered **4 intro sessions to 50+ students** on foundational AI and data concepts
 
-> 🟢 **Junior Data Analyst** · *Hupp Technologies, Ahmedabad, India* · `Mar 2023 – Apr 2024`
+> 🟢 **Junior Data Analyst** · *Hupp Technologies, Ahmedabad, India* · `Mar 2023 – Dec 2023`
 > ▸ Built Python financial data-processing workflows with **GitLab CI/CD** checks to catch errors before stakeholder reporting
 > ▸ Developed **20+ DAX measures across 5 Power BI dashboards** for 12 cross-functional stakeholders
 > ▸ Fixed the dashboards behind 15+ ad hoc requests, **cutting repeat requests by 60%**
